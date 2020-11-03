@@ -1,5 +1,5 @@
-#result
-![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-Polygon228/tree/main/images/test.png)
+# result
+[](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-Polygon228/blob/main/images/test.png)
 ```java
 package test.domain;
 public class Customer
